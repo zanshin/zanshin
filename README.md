@@ -6,7 +6,7 @@ I work for [Kansas State University](https://www.ksu.edu "Kansas State Universit
 more experience in [AWS](https://aws.amazon.com "AWS").
 
 My domain, [zanshin.net](https://zanshin.net) has been active since February 1996. With over 2,200
-postings it represents a sizable chuck of my life. Recently the postings have all be technology
+postings it represents a sizable chuck of my life. Recently the postings have all been technology
 focused.
 
 Away from technology I am a cellist. I'm an adult beginner with just over 11 years of practice under
@@ -17,7 +17,7 @@ Of all the repositories here, the [dotfiles](https://github.com/zanshin/dotfiles
 popular with 294 stars and 75 forks. It is also the most active as I am constantly tweaking one or
 more aspects of my environment. I have a separate dotfiles repository, called
 [neuepunkte](https://github.com/zanshin/neuepunkte "neuepunkte") where I keep my Linux specific
-configurations.
+configurations. The bin repository has scripts in bash, python, perl, and ruby, among others.
 
 Most recently I've been spending much of my free time delving deeper and deeper into
 [Go](https:/golang.org "Go Language"). Consequently several recent repositories have been Go
