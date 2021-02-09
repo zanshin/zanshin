@@ -17,7 +17,7 @@ Of all the repositories here, the [dotfiles](https://github.com/zanshin/dotfiles
 popular with 294 stars and 75 forks. It is also the most active as I am constantly tweaking one or
 more aspects of my environment. I have a separate dotfiles repository, called
 [neuepunkte](https://github.com/zanshin/neuepunkte "neuepunkte") where I keep my Linux specific
-configurations. The bin repository has scripts in bash, python, perl, and ruby, among others.
+configurations. The [bin](https://github.com/zanshin/bin "bin") repository has scripts in bash, python, perl, and ruby, among others.
 
 Most recently I've been spending much of my free time delving deeper and deeper into
 [Go](https:/golang.org "Go Language"). Consequently several recent repositories have been Go
