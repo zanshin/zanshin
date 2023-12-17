@@ -5,7 +5,6 @@ $ cat /etc/profile
 DOMAIN=zanshin.net  
 GITHUB=zanshin  
 MASTODON=@zanshin@hachyderm.io  
-TWITTER=zanshin  
 REDDIT=zanshin  
 DISCORD=zanshin#1947  
 PGP=297F 5FD4 0275 D2E5 48E9  F834 6CCF 1568 5344 5200  
